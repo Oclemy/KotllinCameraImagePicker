@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KCameraImagePicker</string>
+
+    <string name="storage_permission_title">Storage permission required</string>
+    <string name="storage_permission_message">In order to take a picture, you must grant this permission!</string>
+    <string name="storage_permission_denied_message">Storage permission is required in order to take a photo with the camera</string>
+
+</resources>
